@@ -54,30 +54,30 @@ Ensure you have the following installed on your system:
 
 Clone the repository:
 
-\`\`\`bash
+```bash
 git clone https://github.com/hzratali/AiPlanet-Assignment.git
 cd AiPlanet-Assignment
-\`\`\`
+```
 
 Install the dependencies:
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ## Usage
 
 Start the development server:
 
-\`\`\`bash
+```bash
 npm start
-\`\`\`
+```
 
-The app will be running at \`http://localhost:3000\`.
+The app will be running at \`http://localhost:3000/`.
 
 ## Project Structure
 
-\`\`\`plaintext
+```plaintext
 ├── public
 │ ├── index.html
 │ └── ...
@@ -92,4 +92,4 @@ The app will be running at \`http://localhost:3000\`.
 ├── README.md
 ├── package.json
 └── ...
-\`\`\`
+```
