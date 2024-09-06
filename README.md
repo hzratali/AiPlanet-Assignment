@@ -37,7 +37,7 @@ This project is an assignment for AI Planet, designed to create a simple hackath
 
 - **ReactJS**: Frontend framework
 - **Material-UI**: UI components library
-- **JavaScript/TypeScript**: Logic and type safety (TypeScript optional)
+- **JavaScript**: Logic and type safety
 - **React Router**: Routing for navigation
 - **CSS/SCSS**: Styling
 
@@ -73,7 +73,7 @@ Start the development server:
 npm start
 ```
 
-The app will be running at \`http://localhost:3000/`.
+The app will be running at `http://localhost:3000/`.
 
 ## Project Structure
 
